@@ -1,0 +1,1 @@
+El objetivo de este programa es la creacion y ejecucion de una calculadora nutricional adaptada al objetivo individual. Calculando el BMR realtivo a las caracteristicas individuales del usuario.
